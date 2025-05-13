@@ -165,6 +165,6 @@ button:hover {
     font-size: 12px;
     display: flex;
     justify-content: center;
-    gap: px;
+    gap: 5px;
     padding: 30px;
 }
